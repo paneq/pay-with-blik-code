@@ -16,6 +16,8 @@ It guides an AI agent through the process of completing a BLIK payment collabora
 4. The user confirms the transaction in their banking app and lets the agent know
 5. The agent verifies the result
 
+See the full skill definition in [SKILL.md](SKILL.md).
+
 ## Usage
 
 Follow the [Agent Skills installation instructions](https://agentskills.io/) for your agent platform to add this skill.
